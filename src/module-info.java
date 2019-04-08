@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author SALIH
+ *
+ */
+module EtatPattern {
+}
